@@ -1,3 +1,12 @@
+:root {
+  --neutral-900: hsl(220, 50%, 17%);
+  --neutral-400: hsl(221, 21%, 46%);
+  --neutral-200: hsl(199, 20%, 93%);
+  --neutral-0: hsl(0, 0%, 100%);
+  --orange-500: hsl(22, 89%, 52%);
+  --orange-300: hsl(22, 100%, 69%);
+}
+
 * {
   margin: 0;
   padding: 0;
