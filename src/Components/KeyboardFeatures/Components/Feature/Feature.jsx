@@ -5,10 +5,10 @@ export function Feature (props) {
     return (
         <>
             <section className="feature">
-                <div className="icon-wrap flex justify-center w-[80px] h-[70px] p-5 mb-4 rounded-2xl">
+                <div className="icon-wrap flex justify-center w-[80px] h-[70px] p-5 mb-6 rounded-2xl">
                     <img src={ image } alt={ imageAlt }/>
                 </div>
-                <h3 className='main-heading text-3xl font-[900] uppercase mb-4'>{ title }</h3>
+                <h3 className='main-heading font-[900] uppercase mb-4 w-auto'>{ title }</h3>
                 <p className='text font-[500]'>{ description }</p>
             </section>
         </>

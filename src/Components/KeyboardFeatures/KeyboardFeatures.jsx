@@ -13,7 +13,7 @@ export function KeyboardFeatures () {
                 image={ Screen }
                 imageAlt="icon of desktop screen"
                 title="Highly Compatible"
-                description="The Typemaster keyboard boasts top-notch build and practical design. It offers a wide variaty of switches and keycaps, along with reliable wireless connectivity."
+                description="Easy to use and works well with all major computer brands, gaming consoles and mobile devices. Plug & play, no installation or driver needed."
             />
             <Feature
                 image={ Bluetooth }
