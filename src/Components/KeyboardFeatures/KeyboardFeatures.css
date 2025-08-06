@@ -1,0 +1,10 @@
+.keyboard-feature-wrapper {
+
+    .icon-wrap {
+        background-color: var(--orange-500);
+    }
+
+    .text {
+        color: var(--neutral-400);
+    }
+}

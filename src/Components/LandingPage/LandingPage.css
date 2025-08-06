@@ -1,0 +1,16 @@
+.landing-page-main-wrapper {
+
+    /* Text */
+    .main-heading {
+        color: var(--neutral-900);
+    }
+
+    .text {
+        color: var(--neutral-400);
+    }
+    .text-2 {
+        color: var(--neutral-900);
+    }
+    /* END Text */
+
+}

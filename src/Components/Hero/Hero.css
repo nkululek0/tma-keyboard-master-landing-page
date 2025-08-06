@@ -1,0 +1,9 @@
+.hero-wrapper {
+
+    .text {
+        color: var(--neutral-400);
+    }
+    .text-2 {
+        color: var(--neutral-900);
+    }
+}

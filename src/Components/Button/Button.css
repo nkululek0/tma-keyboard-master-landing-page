@@ -1,0 +1,9 @@
+.main-button {
+    background-color: var(--neutral-200);
+    color: var(--neutral-900);
+}
+
+.sub-button {
+    background-color: var(--orange-500);
+    color: var(--neutral-0);
+}
