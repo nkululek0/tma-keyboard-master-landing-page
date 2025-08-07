@@ -18,7 +18,7 @@ export function Hero () {
                     <p className='text font-[600] uppercase'>Release on 5/27</p>
                 </div>
             </section>
-            <div className='hero-image relative w-full h-[17rem] ml-4 overflow-clip rounded-2xl'>
+            <div className='hero-image relative w-full h-[17rem] ml-4 overflow-clip rounded-tl-2xl rounded-bl-2xl'>
                 <img src={ Keyboard } alt='image of black keyboard' className='absolute scale-[2] left-[6rem] bottom-[4rem]'/>
             </div>
         </article>
