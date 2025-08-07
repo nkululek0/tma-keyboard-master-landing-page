@@ -8,7 +8,7 @@ import { Feature } from './Components/Feature'
 export function KeyboardFeatures () {
 
     return (
-        <section className="keyboard-feature-wrapper grid grid-cols-1 gap-12 mx-4">
+        <section className="keyboard-feature-wrapper grid grid-cols-1 gap-12 mx-4 min-[768px]:grid-cols-2">
             <Feature
                 image={ Screen }
                 imageAlt="icon of desktop screen"
