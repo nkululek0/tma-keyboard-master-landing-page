@@ -7,4 +7,12 @@
 
 body {
     margin: 0;
+
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        width: 70vw;
+        margin: 0 auto;
+    }
 }

@@ -18,8 +18,8 @@ export function Hero () {
                     <p className='text font-[600] uppercase'>Release on 5/27</p>
                 </div>
             </section>
-            <div className='hero-image relative w-full h-[17rem] ml-4 overflow-clip rounded-tl-2xl rounded-bl-2xl min-[768px]:h-[22rem]'>
-                <img src={ Keyboard } alt='image of black keyboard' className='absolute scale-[2] left-[6rem] bottom-[4rem]'/>
+            <div className='hero-image relative w-full h-[17rem] ml-4 overflow-clip rounded-tl-2xl rounded-bl-2xl min-[768px]:h-[22rem] min-[1024px]:rounded-2xl'>
+                <img src={ Keyboard } alt='image of black keyboard' className='absolute scale-[2] left-[6rem] bottom-[4rem] min-[1024px]:scale-[2.5] min-[1024px]:left-[10rem] min-[1024px]:bottom-[7rem]'/>
             </div>
         </article>
     )
