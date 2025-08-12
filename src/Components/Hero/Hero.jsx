@@ -13,7 +13,7 @@ export function Hero () {
                         Improve your productivity and gaming without breaking the bank. Upgrade to a high quality mechanical typing experience.
                     </p>
                 </div>
-                <div className='flex justify-between items-center mb-12'>
+                <div className='flex justify-between items-center mb-12 min-[1024px]:justify-start min-[1024px]:gap-8'>
                     <Button buttonType='sub-button'>Pre-Order Now</Button>
                     <p className='text font-[600] uppercase'>Release on 5/27</p>
                 </div>
