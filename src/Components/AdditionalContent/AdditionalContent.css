@@ -15,4 +15,8 @@
     .image-wrapper {
         background-color: var(--orange-500);
     }
+
+    .additional-decorator {
+        background-color: var(--neutral-200);
+    }
 }

@@ -14,6 +14,10 @@
         color: var(--neutral-900);
     }
 
+    .hero-decorator {
+        background-color: var(--neutral-200);
+    }
+
     @media screen and (min-width: 768px) {
         .main-heading {
             font-size: 56px;
